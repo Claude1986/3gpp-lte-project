@@ -1,3 +1,6 @@
+%% 
+deneme
+
 % SCM 
 %_SCM 3GPP Spatial Channel Model 
 % % SCM-2006-07-05 V1.21
